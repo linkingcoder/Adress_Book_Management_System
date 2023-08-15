@@ -1,3 +1,0 @@
-D:/code/CWorkspace/Adress Book Management System/cmake-build-debug/CMakeFiles/Adress_Book_Management_System.dir
-D:/code/CWorkspace/Adress Book Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/code/CWorkspace/Adress Book Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
